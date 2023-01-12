@@ -1,0 +1,29 @@
+.filters {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2.5rem;
+
+}
+
+.filtersList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ 
+
+    .checkboxes {
+        margin: 0 10px;
+        padding: 6px;
+        background-color: black;
+        opacity: .7;
+        border-radius: 5px;
+    }
+
+
+    .checkboxes:hover {
+        transform: scale(1.10);
+        transition: 500ms ease-in-out;
+    }
+}

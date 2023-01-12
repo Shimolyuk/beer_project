@@ -1,0 +1,20 @@
+.searchBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+    input {
+        background-color: #EEEEEE;
+        opacity: .7;
+        border: 1px solid black;
+        border-radius: 10px;
+        width: 65%;
+        padding: 15px;
+
+      
+
+        
+    }
+}
